@@ -21,7 +21,7 @@ module.exports = {
       twitter: "https://twitter.com/",
     },
     locale: "es",
-    title: `John Doe`,
+    title: `Erick moreno`,
     description: `Photography portfolio of John Doe`,
     author: `@johndoe`,
   },
