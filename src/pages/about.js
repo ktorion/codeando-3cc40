@@ -22,7 +22,7 @@ const AboutPage = ({ data }) => (
             </h2>
             <div className="mt-4 leading-loose">
                Sencillez y pragmatismo, interes por el arte 
-              <br /> y el diseño.
+              <br /> y el diseño natural
               <br /> procuro mantener en mis proyectos y metodologias de estudio esos dos principios 
               
               <br /> estaría encantado de colaborar contigo
