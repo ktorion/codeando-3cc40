@@ -21,7 +21,7 @@ const AboutPage = ({ data }) => (
               me interesan las nuevas tecnologias y las bellas vistas.
             </h2>
             <div className="mt-4 leading-loose">
-               Sencillez y pragmatismo, aun así tengo un gran interes por el arte 
+               Sencillez y pragmatismo, interes por el arte 
               <br /> y el diseño.
               <br /> procuro mantener en mis proyectos y metodologias de estudio esos dos principios 
               
