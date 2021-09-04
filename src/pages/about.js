@@ -25,7 +25,7 @@ const AboutPage = ({ data }) => (
               <br />
               <br /> procuro mantener en mis proyectos y metodologias de estudio esos dos principios 
               
-              <br />
+              <br /> estaría encantado de colaborar contigo
               <br />
               I'm happy to hear from you:
               <br />
