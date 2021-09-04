@@ -40,7 +40,7 @@ const AboutPage = ({ data }) => (
           <div className="w-full md:w-1/2 xl:w-2/5 md:pl-12">
             <Img
               fluid={data.author.childImageSharp.fluid}
-              alt="John Doe"
+              alt="Erick Moreno"
               className="rounded-md shadow-md"
             />
           </div>
