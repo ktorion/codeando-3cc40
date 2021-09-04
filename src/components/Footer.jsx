@@ -28,7 +28,7 @@ const Footer = () => {
         <FooterLink href={links.twitter} icon={FaTwitter} label="Twitter" />
         <FooterLink href={links.facebook} icon={FaFacebook} label="Facebook" />
         <FooterLink
-          href={links.instagram}
+          href={}
           icon={FaInstagram}
           label="Instagram"
         />
