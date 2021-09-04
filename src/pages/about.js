@@ -21,7 +21,7 @@ const AboutPage = ({ data }) => (
               me interesan las nuevas tecnologias y las bellas vistas.
             </h2>
             <div className="mt-4 leading-loose">
-              me considero sencillo y pragmatico, 
+              me considero sencillo y pragmatico, pero tengo un gran interes por el arte 
               <br />
               <br />
               Morbi sem leo, varius ut tempus et, tempor sit amet nibh.
