@@ -23,7 +23,7 @@ const AboutPage = ({ data }) => (
             <div className="mt-4 leading-loose">
               me considero sencillo y pragmatico, pero tengo un gran interes por el arte 
               <br />
-              <br />
+              <br /> procuro mantener en mis proyectos y metodologias de estudio esos dos principios 
               Morbi sem leo, varius ut tempus et, tempor sit amet nibh.
               Curabitur fermentum feugiat libero, sed egestas lorem aliquam et.
               Praesent id mi purus. Morbi sem leo, varius ut tempus et, tempor
