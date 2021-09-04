@@ -20,7 +20,7 @@ module.exports = {
       pinterest: "https://pinterest.com/",
       twitter: "https://twitter.com/",
     },
-    locale: "en",
+    locale: "es",
     title: `John Doe`,
     description: `Photography portfolio of John Doe`,
     author: `@johndoe`,
