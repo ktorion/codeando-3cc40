@@ -42,7 +42,7 @@ const Newsletter = () => {
           type="email"
         />
         <div className="mt-3 sm:mt-0 sm:ml-3 sm:flex-shrink-0">
-          <Button disabled={disabled}>Sign up</Button>
+          <Button disabled={disabled}>entra!</Button>
         </div>
       </form>
       <div
