@@ -5,7 +5,7 @@ import Layout from "../layouts/Layout"
 import Newsletter from "../components/Newsletter"
 import SiteMetadata from "../components/SiteMetadata"
 
-const AboutPage = ({  }) => (
+const AboutPage = ({ data }) => (
   <Layout>
     <SiteMetadata title="About" description="Sample description" />
 
