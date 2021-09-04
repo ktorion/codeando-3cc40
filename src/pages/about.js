@@ -27,7 +27,7 @@ const AboutPage = ({ data }) => (
               
               <br /> estaría encantado de colaborar contigo
               <br />
-              I'm happy to hear from you:
+              escribeme:
               <br />
               <a
                 href="mailto:emorek2002@gmail.com"
