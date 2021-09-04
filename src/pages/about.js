@@ -33,7 +33,7 @@ const AboutPage = ({ data }) => (
                 href="mailto:emorek2002@gmail.com"
                 className="border-b border-gray-500 hover:border-blue-600 hover:text-blue-600"
               >
-                contact@poeta.com
+                contact@poetafotografo.com
               </a>
             </div>
           </div>
