@@ -22,7 +22,7 @@ module.exports = {
     },
     locale: "es",
     title: `Erick moreno`,
-    description: `Photography portfolio of John Doe`,
+    description: `Photography portfolio of erick`,
     author: `@johndoe`,
   },
   plugins: [
