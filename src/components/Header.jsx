@@ -24,7 +24,7 @@ const Header = () => {
       <div className="flex justify-between items-center">
         <Link to="/">
           
-        </Link>
+        
 
         <button
           className="sm:hidden"
