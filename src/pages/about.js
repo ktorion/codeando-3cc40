@@ -23,7 +23,7 @@ const AboutPage = ({ data }) => (
             <div className="mt-4 leading-loose">
                Sencillez, pragmatismo, interés por el arte 
               <br /> y el diseño natural.
-              <br />redescubre el mundo 
+              <br />redescubre el mundo a tu alrededor
               
               <br /> estaría encantado de colaborar contigo
               <br />
