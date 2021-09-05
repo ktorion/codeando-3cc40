@@ -63,7 +63,7 @@ export default props => {
         <div className="bg-gray-100 py-12 lg:py-16">
           <div className="container">
             <h2 className="text-3xl sm:text-4xl leading-tight font-extrabold tracking-tight text-gray-900 mb-8">
-              te puedo 
+              también te puede interesar:
             </h2>
           </div>
           <Cards items={related} hideLastItemOnMobile={true} />
