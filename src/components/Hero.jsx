@@ -9,7 +9,7 @@ const Hero = () => (
       </span>
       <br />
       <span className="text-blue-600">
-       Bienvenido a mi portafolio de prueba
+       Bienvenido a mi portafolio 
       </span>
     </h2>
   </div>
