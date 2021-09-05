@@ -23,7 +23,7 @@ const AboutPage = ({ data }) => (
             <div className="mt-4 leading-loose">
                Sencillez, pragmatismo, interés por el arte 
               <br /> y el diseño natural.
-              <br /> procuro mantener en mis proyectos y metodologias de estudio esos cuatro conceptos
+              <br />  proyectos y metodologias de estudio esos cuatro conceptos
               
               <br /> estaría encantado de colaborar contigo
               <br />
