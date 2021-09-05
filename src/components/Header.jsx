@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <div className="container pt-6 pb-12 md:pt-12">
       <div className="flex justify-between items-center">
-        <Link to="/">
+        
           
         
 
