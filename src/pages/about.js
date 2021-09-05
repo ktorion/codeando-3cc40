@@ -18,12 +18,12 @@ const AboutPage = ({ data }) => (
             </h1>
 
             <h2 className="text-xl leading-tight font-semibold tracking-tight text-blue-600 sm:text-2xl">
-              me interesan las nuevas tecnologias y las bellas vistas.
+               nuevas tecnologias y bellas vistas.
             </h2>
             <div className="mt-4 leading-loose">
                Sencillez, pragmatismo, interés por el arte 
               <br /> y el diseño natural.
-              <br /> procuro mantener en mis proyectos y metodologias de estudio esos cuatro conceptos
+              <br />redescubre el mundo a tu alrededor
               
               <br /> estaría encantado de colaborar contigo
               <br />
